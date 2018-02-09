@@ -16,3 +16,4 @@ sudo apt-get -y install libdvd-pkg
 sudo dpkg-reconfigure libdvd-pkg
 sudo apt -y install default-jre
 sudo ~/priv.sh
+echo "Don't forget to edit the /opt/arm/arm.conf configuration file and reboot!"
